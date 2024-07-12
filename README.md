@@ -27,7 +27,7 @@ Ao utilizar o Rox Payments, você terá acesso a um painel administrativo para a
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://v1.tailwindcss.com/_next/static/media/tailwind-ui-logo-on-dark.e075f076d1193a2062dc60571c75a1d2.svg">
+  <img align="center" alt="TailwindCSS" height="30" width="80" src="https://v1.tailwindcss.com/_next/static/media/tailwind-ui-logo-on-dark.e075f076d1193a2062dc60571c75a1d2.svg">
 </div>
 
 
