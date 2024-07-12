@@ -66,7 +66,7 @@ if (!empty($externalReference) && !empty($email) && !empty($valor)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rox Payments</title>
+    <title>Rox Checkout</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
     <link rel="icon" type="image/x-icon" href="../assets/favicon.png"/>
@@ -88,7 +88,7 @@ if (!empty($externalReference) && !empty($email) && !empty($valor)) {
     </script>
 </head>
 <body class="flex flex-col items-center justify-center h-screen max-h-screen p-4 overflow-x-hidden bg-cover" style="background-image: url('/assets/rox_bg2.png'); background-position: right;">
-     <img src="../assets/favicon.png" alt="Rox Payments" class="w-full max-w-[110px] relative top-[-35px]">
+     <img src="../assets/favicon.png" alt="Rox Checkout" class="w-full max-w-[110px] relative top-[-35px]">
     <section class="bg-[#483d8b] text-white w-full  mx-4 p-4 rounded-lg flex flex-col items-center sm:mx-2 sm:max-w-none md:max-w-[550px]">
         <h2 class="text-center mb-4 text-2xl">PAGAMENTO</h2>
         <p class="text-center mb-6">Escaneie ou copie o código para pagamento!</p>

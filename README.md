@@ -1,16 +1,16 @@
-# Rox Payments
+# Rox Checkout
 Sistema web para gerar QrCode de PIX e receber seus pagamentos.
 
 
 ## Descrição
-Com o Rox Payments, você poderá receber seus pagamentos de forma anônima, sem a necessidade de expor seus dados pessoais como chave PIX, nome ou CPF. Utilizando uma gateway rápida e 100% segura, seus clientes poderão efetuar pagamentos com segurança em um ecossistema financeiro completo e um checkout transparente. Beneficie-se de uma gateway de pagamento que oferece 98% de aprovação, cartões pré-pagos ilimitados, câmbio internacional e muito mais.
+Com o Rox Checkout, você poderá receber seus pagamentos de forma anônima, sem a necessidade de expor seus dados pessoais como chave PIX, nome ou CPF. Utilizando uma gateway rápida e 100% segura, seus clientes poderão efetuar pagamentos com segurança em um ecossistema financeiro completo e um checkout transparente. Beneficie-se de uma gateway de pagamento que oferece 98% de aprovação, cartões pré-pagos ilimitados, câmbio internacional e muito mais.
 
-![Rox Payments Example](/front_gif.gif)
+![Rox Checkout Example](/front_gif.gif)
 
 ## Aplicação em Produção
-<a href="https://roxpayments.shop" target="_blank">https://roxpayments.shop</a>
+<a href="https://roxcheckout.shop" target="_blank">https://roxcheckout.shop</a>
 
-Ao utilizar o Rox Payments, você terá acesso a um painel administrativo para acompanhar todos os QrCodes gerados no sistema, bem como a situação de cada pagamento (Pendente ou Aprovado). Nossa dashboard permite filtrar por nome do cliente, valores ou data, facilitando a gestão de seus recebimentos.
+Ao utilizar o Rox Checkout, você terá acesso a um painel administrativo para acompanhar todos os QrCodes gerados no sistema, bem como a situação de cada pagamento (Pendente ou Aprovado). Nossa dashboard permite filtrar por nome do cliente, valores ou data, facilitando a gestão de seus recebimentos.
 
 ## Funcionalidades Principais
 
