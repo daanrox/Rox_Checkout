@@ -5,6 +5,8 @@ Sistema web para gerar QrCode de PIX e receber seus pagamentos.
 ## Descrição
 Com o Rox Checkout, você poderá receber seus pagamentos de forma anônima, sem a necessidade de expor seus dados pessoais como chave PIX, nome ou CPF. Utilizando uma gateway rápida e 100% segura, seus clientes poderão efetuar pagamentos com segurança em um ecossistema financeiro completo e um checkout transparente. Beneficie-se de uma gateway de pagamento que oferece 98% de aprovação, cartões pré-pagos ilimitados, câmbio internacional e muito mais.
 
+Funcionamento na hospedagem da [Hostinger - Compre com desconto](https://hostinger.com.br?REFERRALCODE=1DANIEL1306)
+
 ![Rox Checkout Example](/front_gif.gif)
 
 ## Aplicação em Produção
